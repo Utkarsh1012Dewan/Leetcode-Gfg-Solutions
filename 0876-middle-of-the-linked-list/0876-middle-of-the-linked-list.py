@@ -6,6 +6,27 @@
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         
+        #optimised
+        
+        slow, fast = head,head
+        
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+            
+        return slow
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        #Brute Force
         temp = head
         len = 0
         
@@ -19,7 +40,7 @@ class Solution:
         
         while new:
             temp1 = temp1.next
-            new-=1
+            new -=1
         
         return temp1
         
