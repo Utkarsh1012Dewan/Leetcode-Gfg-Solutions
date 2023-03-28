@@ -18,15 +18,8 @@ class Solution:
         
         
         
-        
-        
-        
-        
-        
-        
-        
-        
         #Brute Force
+        
         temp = head
         len = 0
         
