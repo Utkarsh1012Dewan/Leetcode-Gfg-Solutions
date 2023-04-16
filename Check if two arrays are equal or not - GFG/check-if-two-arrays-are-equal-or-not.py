@@ -4,18 +4,19 @@ class Solution:
     #Function to check if two arrays are equal or not.
     def check(self,A,B,N):
         
-        trackA = {}
-        trackB = {}
+        track = {}
         
         for i in A:
-            trackA[i] = 1 + trackA.get(i,0)
-        
+            track[i] = 1 + track.get(i,0)
+            
         for i in B:
-            trackB[i] = 1 + trackB.get(i,0)
+            if i not in track:
+                return False
+            track[i] -=1
         
         
-        for i in trackA:
-            if trackA[i] != trackB.get(i,0):
+        for i in track:
+            if track[i] != 0:
                 return False
         
         
