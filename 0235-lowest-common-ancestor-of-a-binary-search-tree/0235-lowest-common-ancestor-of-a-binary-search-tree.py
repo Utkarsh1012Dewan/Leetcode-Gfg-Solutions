@@ -8,6 +8,11 @@
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         
+        #basically the idea is agar tree ko niche se dekhoge, to jo ancestor sabse upar milega vo lowest common hoga because hum tree ko upar se hi dekhte hain.
+        # agar dono p or q root se bade hain to rifht varna left
+        # agar kisi bhi point pe dono sathme bade ya chote nahi hue to matlab vaha split hoga. That is the 
+        #Lowest common ancestor node
+        
         curr = root
         
         while curr:
