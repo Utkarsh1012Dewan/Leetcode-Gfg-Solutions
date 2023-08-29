@@ -7,6 +7,31 @@
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         
+        #slightly more efficient
+        
+        if not root:
+            return None
+        res = []
+        
+        queue = deque([root])
+        
+            
+        while len(queue) > 0:
+            rightNode = None
+            
+            for i in range(len(queue)):
+                cur = queue.popleft()
+                if cur:
+                    rightNode = cur
+                    queue.append(cur.left)
+                    queue.append(cur.right)
+            if rightNode:
+                res.append(rightNode.val)
+        
+        return res
+          
+        
+        #My own approach
         if not root:
             return None
         res = []
@@ -31,21 +56,5 @@ class Solution:
         
         return res
         
-        
-        
-        
-        
-        
-#         if not root:
-#             return None
-        
-#         res = []
-        
-#         curr = root
-        
-#         while curr and curr.right:
-#             res.append(curr.val)
-#             curr = curr.right
-        
-#         return res
+
         
