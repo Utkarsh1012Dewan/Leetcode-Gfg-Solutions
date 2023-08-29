@@ -7,7 +7,8 @@
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         
-        res = []
+        #basically doing an inorder traversal but not storing the result in an array. Just keeping a number n and incrementing it until we reach k. As soon as we do we know cur is holding that kth element so we return that.
+        n = 0
         stack = []
         
         cur = root
@@ -17,7 +18,9 @@ class Solution:
                 stack.append(cur)
                 cur =  cur.left
             cur = stack.pop()
-            res.append(cur.val)
+            n+=1
+            if n == k:
+                return cur.val
             cur = cur.right
         
         return res[k-1]        
