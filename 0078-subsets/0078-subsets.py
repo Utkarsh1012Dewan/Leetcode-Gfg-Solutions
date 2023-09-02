@@ -7,7 +7,7 @@ class Solution:
         def dfs(index,n,temp):
 
             if index == n:
-                res.append(temp.copy())
+                res.append(temp[:])
                 return
 
             temp.append(nums[index])
