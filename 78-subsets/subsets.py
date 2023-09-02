@@ -1,18 +1,6 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
 
-        #iteration
-        n = len(nums)
-        output = [[]]
-
-        for i in nums:
-            output += [[i] + curr for curr in output]
-
-        return output
-
-
-
-
         #recursive using bakctracking
         res = []
         n = len(nums)
@@ -33,3 +21,15 @@ class Solution:
         dfs(0,n,[])
 
         return res
+
+
+        #iteration
+        n = len(nums)
+        output = [[]]
+
+        for i in nums:
+            output += [[i] + curr for curr in output]
+
+        return output
+
+
