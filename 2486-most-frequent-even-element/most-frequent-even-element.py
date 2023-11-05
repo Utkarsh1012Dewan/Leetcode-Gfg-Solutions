@@ -13,9 +13,7 @@ class Solution:
                 if count == -1 and minEle == -1:
                     minEle = i
                     count = track[i]
-                elif track[i] == count and i < minEle:
-                    minEle = i
-                elif track[i] > count:
+                elif (track[i] > count) or track[i] == count and i < minEle:
                     minEle = i
                     count = track[i]
         
