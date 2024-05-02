@@ -1,6 +1,9 @@
 class Solution:
     def findMaxK(self, nums: List[int]) -> int:
 
+        #brute force -> sort and pick the number at the beginneing after
+        #checking that it's positive exists in the end of the array
+
         track = {}
 
         for i in nums:
