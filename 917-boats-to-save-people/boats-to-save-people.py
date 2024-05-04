@@ -6,10 +6,7 @@ class Solution:
         people.sort()
 
         while l <= r:
-            if people[r] == limit:
-                r-=1
-                count +=1
-            elif people[r] + people[l] > limit:
+            if people[r] + people[l] > limit:
                 r-=1
                 count +=1
             elif people[r] + people[l] <= limit:
