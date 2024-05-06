@@ -1,12 +1,19 @@
 class Solution:
     def minimumCardPickup(self, cards: List[int]) -> int:
-        window = defaultdict(int)
-        shortest, left = len(cards)+1, 0
+
+        ans,left = len(cards)+1,0
+        track = {}
+        #[3, 4, 2, 3, 4, 7]
         for right in range(len(cards)):
-            window[cards[right]] += 1
-            while window[cards[right]] == 2:
-                shortest = min(shortest, right-left+1)
-                window[cards[left]] -= 1
-                left += 1
-        return shortest if shortest != len(cards)+1 else -1
+            track[cards[right]] = 1 + track.get(cards[right],0)
+            while track[cards[right]] > 1:
+                ans = min(ans,right-left+1)
                 
+                track[cards[left]] -=1
+                
+                if track[cards[left]] == 0:
+                    del track[cards[left]]
+                left+=1    
+                
+        return ans if ans != len(cards)+1 else -1
+                    
