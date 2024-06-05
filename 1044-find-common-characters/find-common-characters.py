@@ -6,6 +6,8 @@ class Solution:
         for word in words:
             count = Counter(word)
             for i in cnt:
+                #if i is not in count, it is going to default to 0
+                #since counter works like a default dict. Remember the dict.get(key,0)
                 cnt[i] = min(cnt[i],count[i])
         
         res = []
