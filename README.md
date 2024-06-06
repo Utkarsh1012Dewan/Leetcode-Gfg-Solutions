@@ -45,7 +45,16 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1044-find-common-characters) |
+| [3427-special-array-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/3427-special-array-ii) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
+# Binary Search
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/3427-special-array-ii) |
+# Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/3427-special-array-ii) |
