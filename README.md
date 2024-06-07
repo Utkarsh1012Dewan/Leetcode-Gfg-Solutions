@@ -14,6 +14,7 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [0344-reverse-string](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
@@ -26,6 +27,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1044-find-common-characters) |
 # Math
@@ -43,6 +45,7 @@ All GFG solutions are marked with 'GFG'
 # Array
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1044-find-common-characters) |
 | [3427-special-array-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/3427-special-array-ii) |
@@ -58,3 +61,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/3427-special-array-ii) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0648-replace-words) |
