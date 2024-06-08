@@ -1,6 +1,8 @@
 import heapq
 class KthLargest:
-
+    #the size of the heap is = k
+    #the smallest element in that k size will be the
+    #Kth largest element in the whole nums array
     def __init__(self, k: int, nums: List[int]):
         self.k = k
         self.minHeap = nums
