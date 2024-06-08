@@ -51,6 +51,7 @@ All GFG solutions are marked with 'GFG'
 | [0648-replace-words](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1044-find-common-characters) |
+| [1127-last-stone-weight](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1127-last-stone-weight) |
 | [3427-special-array-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/3427-special-array-ii) |
 # Sorting
 |  |
@@ -85,6 +86,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1127-last-stone-weight) |
 # Binary Tree
 |  |
 | ------- |
