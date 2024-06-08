@@ -27,6 +27,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1044-find-common-characters) |
@@ -34,6 +35,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
+| [0523-continuous-subarray-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +47,7 @@ All GFG solutions are marked with 'GFG'
 # Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1044-find-common-characters) |
@@ -60,6 +63,7 @@ All GFG solutions are marked with 'GFG'
 # Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [3427-special-array-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/3427-special-array-ii) |
 # Trie
 |  |
