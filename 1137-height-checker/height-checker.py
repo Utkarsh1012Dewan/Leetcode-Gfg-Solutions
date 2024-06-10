@@ -1,5 +1,7 @@
 class Solution:
     def heightChecker(self, heights: List[int]) -> int:
+
+        #Optimized - Counting sort - O(N)
         res = [0]*101
 
         for i in heights:
