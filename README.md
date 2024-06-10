@@ -55,12 +55,14 @@ All GFG solutions are marked with 'GFG'
 | [1016-subarray-sums-divisible-by-k](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1044-find-common-characters) |
 | [1127-last-stone-weight](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1127-last-stone-weight) |
+| [1137-height-checker](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1137-height-checker) |
 | [3427-special-array-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/3427-special-array-ii) |
 # Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1137-height-checker) |
 # Binary Search
 |  |
 | ------- |
@@ -109,3 +111,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1137-height-checker) |
