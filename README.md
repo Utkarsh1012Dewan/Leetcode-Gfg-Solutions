@@ -39,6 +39,7 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [0070-climbing-stairs](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 # Dynamic Programming
 |  |
 | ------- |
