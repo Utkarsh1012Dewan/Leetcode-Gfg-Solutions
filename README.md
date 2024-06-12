@@ -7,6 +7,7 @@ All GFG solutions are marked with 'GFG'
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -51,6 +52,7 @@ All GFG solutions are marked with 'GFG'
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0648-replace-words) |
@@ -64,6 +66,7 @@ All GFG solutions are marked with 'GFG'
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
