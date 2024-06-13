@@ -24,6 +24,7 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [0409-longest-palindrome](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -62,6 +63,7 @@ All GFG solutions are marked with 'GFG'
 | [1127-last-stone-weight](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3427-special-array-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/3427-special-array-ii) |
 # Sorting
 |  |
@@ -72,6 +74,7 @@ All GFG solutions are marked with 'GFG'
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
 | ------- |
