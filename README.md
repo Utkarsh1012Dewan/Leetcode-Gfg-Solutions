@@ -23,6 +23,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -56,6 +57,7 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [0075-sort-colors](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
@@ -73,6 +75,7 @@ All GFG solutions are marked with 'GFG'
 | [0075-sort-colors](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0502-ipo](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1137-height-checker) |
@@ -110,6 +113,7 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0502-ipo](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1127-last-stone-weight) |
 # Binary Tree
