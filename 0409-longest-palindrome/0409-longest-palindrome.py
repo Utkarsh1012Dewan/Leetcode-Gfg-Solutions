@@ -7,11 +7,16 @@ class Solution:
 
         for i in s:
             if i in track:
+                #if i in track means we have 2 of those characters
+                #that means they can be used to create a palindrome
+                #so we remove that from set and append 2 to res
                 track.remove(i)
                 res +=2
             else:
                 track.add(i)
-        
+        #even if we have multiple chaarcters here
+        #i.e they were unique, only one will be needed to
+        #increase the length of the palindrome i.e res+1
         return res + 1 if track else res
 
 
