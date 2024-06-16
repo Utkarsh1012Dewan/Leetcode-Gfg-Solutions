@@ -22,6 +22,7 @@ All GFG solutions are marked with 'GFG'
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
@@ -57,6 +58,7 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [0075-sort-colors](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0330-patching-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0648-replace-words) |
