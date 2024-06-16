@@ -8,6 +8,9 @@ class Solution:
             for i in cnt:
                 #if i is not in count, it is going to default to 0
                 #since counter works like a default dict. Remember the dict.get(key,0)
+
+                #LOGIC -> Badically the min operation is going to keep the count of 
+                #only those elements which are present in every word above 0.
                 cnt[i] = min(cnt[i],count[i])
         
         res = []
