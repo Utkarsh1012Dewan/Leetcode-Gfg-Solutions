@@ -10,6 +10,7 @@ All GFG solutions are marked with 'GFG'
 | [0075-sort-colors](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -44,6 +45,7 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [0070-climbing-stairs](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 # Dynamic Programming
 |  |
@@ -109,6 +111,7 @@ All GFG solutions are marked with 'GFG'
 # Binary Search Tree
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 # Heap (Priority Queue)
 |  |
