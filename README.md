@@ -75,6 +75,7 @@ All GFG solutions are marked with 'GFG'
 | [1137-height-checker](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3427-special-array-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/3427-special-array-ii) |
 # Sorting
@@ -89,6 +90,7 @@ All GFG solutions are marked with 'GFG'
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
@@ -120,6 +122,7 @@ All GFG solutions are marked with 'GFG'
 | [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0853-most-profit-assigning-work](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 # Heap (Priority Queue)
 |  |
 | ------- |
