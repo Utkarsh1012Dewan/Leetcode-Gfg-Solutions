@@ -42,12 +42,14 @@ All GFG solutions are marked with 'GFG'
 | [1016-subarray-sums-divisible-by-k](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 # Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 # Dynamic Programming
 |  |
@@ -74,6 +76,7 @@ All GFG solutions are marked with 'GFG'
 | [1127-last-stone-weight](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -154,3 +157,7 @@ All GFG solutions are marked with 'GFG'
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1217-relative-sort-array) |
+# Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
