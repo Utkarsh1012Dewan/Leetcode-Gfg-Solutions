@@ -21,13 +21,13 @@ class Solution:
             mid = r - (r-l) // 2
 
             #if the number of balls placed in at "mid" distance from each other is higher than m
-            #then we can increase the distance we can put between the balls
-            #necause we need to put all the balls 
+            #then we can increase the distance we can put between the balls 
+            #to maximise the minimum distance
             if count(mid) >= m:
                 l = mid
             #if the count of balls if lower than m
             #that means the distance between balls is too high and
-            #we need to decrease that distance beteween the balls
+            #we need to decrease that distance between the balls
             else:
                 r = mid - 1
         
