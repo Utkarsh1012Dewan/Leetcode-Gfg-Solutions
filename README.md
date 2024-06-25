@@ -114,6 +114,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Design
 |  |
 | ------- |
@@ -125,6 +126,7 @@ All GFG solutions are marked with 'GFG'
 | [0633-sum-of-square-numbers](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0853-most-profit-assigning-work](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0853-most-profit-assigning-work) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 # Heap (Priority Queue)
@@ -140,6 +142,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Data Stream
 |  |
 | ------- |
@@ -176,3 +179,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
