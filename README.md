@@ -63,6 +63,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0075-sort-colors) |
+| [0200-number-of-islands](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0330-patching-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0502-ipo) |
@@ -183,13 +184,20 @@ All GFG solutions are marked with 'GFG'
 # Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0733-flood-fill) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0733-flood-fill) |
 # Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0733-flood-fill) |
+# Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0200-number-of-islands) |
