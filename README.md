@@ -68,6 +68,7 @@ All GFG solutions are marked with 'GFG'
 | [0502-ipo](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0648-replace-words) |
+| [0733-flood-fill](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0733-flood-fill) |
 | [0853-most-profit-assigning-work](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -182,4 +183,13 @@ All GFG solutions are marked with 'GFG'
 # Depth-First Search
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0733-flood-fill) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0733-flood-fill) |
+# Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0733-flood-fill) |
