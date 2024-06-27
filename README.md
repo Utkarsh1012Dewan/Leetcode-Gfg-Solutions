@@ -201,3 +201,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0200-number-of-islands) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1916-find-center-of-star-graph) |
