@@ -205,3 +205,10 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
