@@ -3,7 +3,7 @@ class Solution:
 
         track = {}
         for i in nums1:
-            track[i] = 1 +  track.get(i,0)
+            track[i] = 1 
 
         ans = set()
         for i in nums2:
