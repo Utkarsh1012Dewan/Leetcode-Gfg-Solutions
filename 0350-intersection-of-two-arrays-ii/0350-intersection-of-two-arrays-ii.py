@@ -2,6 +2,8 @@ class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
 
         #Approach 2 - After sorting
+        #T.C -> O(MlogM+ NlogN)
+        #S.C -> O(1)
         nums1.sort()
         nums2.sort()
         i,j = 0,0
@@ -18,17 +20,18 @@ class Solution:
         return ans
 
 
-# TC - O(M+N)
-# SC - O(min(M,N)) where K is the len of either nums1 or nums2
-        # track = {}
-        # for i in nums1:
-        #     track[i] = 1 + track.get(i,0)
-        
-        # ans = []
+        # TC - O(M+N)
+        # SC - O(min(M,N)) where K is the len of either nums1 or nums2
 
-        # for i in nums2:
-        #     if i in track and track[i] > 0:
-        #         ans.append(i)
-        #         track[i] -=1
+        track = {}
+        for i in nums1:
+            track[i] = 1 + track.get(i,0)
         
-        # return ans
+        ans = []
+
+        for i in nums2:
+            if i in track and track[i] > 0:
+                ans.append(i)
+                track[i] -=1
+        
+        return ans
