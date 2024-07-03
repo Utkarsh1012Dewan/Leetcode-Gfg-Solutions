@@ -1,14 +1,20 @@
 class MyStack:
 
     def __init__(self):
-        self.q = []
+        self.q = deque()
         
     def push(self, x: int) -> None:
         self.q.append(x)
 
     def pop(self) -> int:
+        for i in range(len(self.q)-1):
+            self.q.append(self.q.popleft())
+        return self.q.popleft()
 
-        return self.q.pop() if len(self.q) > 0 else -1 
+        #This will not be valid becuase
+        #In a queue we can only remove elements from the front and not the back
+        
+        #return self.q.pop() if len(self.q) > 0 else -1 
         
     def top(self) -> int:
 
@@ -16,7 +22,7 @@ class MyStack:
         
     def empty(self) -> bool:
 
-        return True if len(self.q) == 0 else False
+        return len(self.q) == 0
 
 
 # Your MyStack object will be instantiated and called as such:
