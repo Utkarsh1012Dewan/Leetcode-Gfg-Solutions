@@ -265,6 +265,7 @@ All GFG solutions are marked with 'GFG'
 ## Linked List
 |  |
 | ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
