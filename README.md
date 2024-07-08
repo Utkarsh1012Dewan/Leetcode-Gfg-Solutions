@@ -210,6 +210,7 @@ All GFG solutions are marked with 'GFG'
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0064-minimum-path-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -286,4 +287,12 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
