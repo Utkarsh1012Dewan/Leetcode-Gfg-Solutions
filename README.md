@@ -293,8 +293,13 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0064-minimum-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0064-minimum-path-sum) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
