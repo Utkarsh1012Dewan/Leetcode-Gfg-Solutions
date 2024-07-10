@@ -215,6 +215,7 @@ All GFG solutions are marked with 'GFG'
 | [0350-intersection-of-two-arrays-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -257,6 +258,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
 ## Design
 |  |
 | ------- |
@@ -302,4 +304,5 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
