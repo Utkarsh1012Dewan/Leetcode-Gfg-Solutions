@@ -258,6 +258,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
 ## Design
 |  |
@@ -304,5 +305,6 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
