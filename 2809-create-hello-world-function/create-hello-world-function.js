@@ -1,9 +1,9 @@
 /**
  * @return {Function}
  */
-var createHelloWorld = function() {
-    return () => 'Hello World'
-};
+function createHelloWorld(){
+    return ()=> "Hello World"
+}
 
 /**
  * const f = createHelloWorld();
