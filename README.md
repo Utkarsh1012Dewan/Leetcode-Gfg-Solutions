@@ -257,12 +257,14 @@ All GFG solutions are marked with 'GFG'
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -312,6 +314,7 @@ All GFG solutions are marked with 'GFG'
 ## String
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
