@@ -20,7 +20,7 @@ class Solution:
             max_col[cmax] = j
 
         ans = []
-
+        #there can only be one max element
         for i in min_row:
             if i in max_col:
                 ans.append(i)
