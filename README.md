@@ -221,6 +221,7 @@ All GFG solutions are marked with 'GFG'
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2502-sort-the-people](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2634-minimum-common-value) |
 | [2846-robot-collisions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -230,6 +231,7 @@ All GFG solutions are marked with 'GFG'
 | [0350-intersection-of-two-arrays-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2502-sort-the-people](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -250,6 +252,7 @@ All GFG solutions are marked with 'GFG'
 | [0350-intersection-of-two-arrays-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2502-sort-the-people](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2846-robot-collisions) |
 ## Counting
 |  |
@@ -321,6 +324,7 @@ All GFG solutions are marked with 'GFG'
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2502-sort-the-people](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
 | ------- |
