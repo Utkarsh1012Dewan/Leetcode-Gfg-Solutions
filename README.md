@@ -303,6 +303,7 @@ All GFG solutions are marked with 'GFG'
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2645-pass-the-pillow) |
@@ -314,6 +315,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Matrix
 |  |
@@ -361,4 +363,8 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0948-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
