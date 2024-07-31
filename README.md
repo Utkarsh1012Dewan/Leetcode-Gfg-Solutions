@@ -214,6 +214,7 @@ All GFG solutions are marked with 'GFG'
 | [0213-house-robber-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0213-house-robber-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0948-sort-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -319,6 +320,7 @@ All GFG solutions are marked with 'GFG'
 | [0064-minimum-path-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Matrix
