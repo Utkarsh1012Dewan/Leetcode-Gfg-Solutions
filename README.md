@@ -227,6 +227,7 @@ All GFG solutions are marked with 'GFG'
 | [2331-intersection-of-multiple-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2634-minimum-common-value) |
+| [2727-number-of-senior-citizens](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -338,6 +339,7 @@ All GFG solutions are marked with 'GFG'
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2727-number-of-senior-citizens) |
 ## Tree
 |  |
 | ------- |
