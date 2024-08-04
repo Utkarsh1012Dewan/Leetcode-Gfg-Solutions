@@ -219,6 +219,7 @@ All GFG solutions are marked with 'GFG'
 | [1293-three-consecutive-odds](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1803-average-waiting-time) |
@@ -243,12 +244,14 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2634-minimum-common-value](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2634-minimum-common-value](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
@@ -257,6 +260,7 @@ All GFG solutions are marked with 'GFG'
 | [0350-intersection-of-two-arrays-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2502-sort-the-people) |
