@@ -224,6 +224,7 @@ All GFG solutions are marked with 'GFG'
 | [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2502-sort-the-people) |
@@ -235,6 +236,7 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2502-sort-the-people) |
@@ -268,6 +270,7 @@ All GFG solutions are marked with 'GFG'
 ## Counting
 |  |
 | ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 ## Greedy
 |  |
@@ -342,6 +345,7 @@ All GFG solutions are marked with 'GFG'
 | [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2727-number-of-senior-citizens) |
 ## Tree
