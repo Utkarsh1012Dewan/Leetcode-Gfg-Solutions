@@ -329,6 +329,7 @@ All GFG solutions are marked with 'GFG'
 | [0070-climbing-stairs](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Matrix
@@ -339,6 +340,7 @@ All GFG solutions are marked with 'GFG'
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
