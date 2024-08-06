@@ -327,6 +327,7 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0072-edit-distance) |
 | [0213-house-robber-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -342,6 +343,7 @@ All GFG solutions are marked with 'GFG'
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
