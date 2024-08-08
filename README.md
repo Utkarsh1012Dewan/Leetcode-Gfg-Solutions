@@ -210,6 +210,7 @@ All GFG solutions are marked with 'GFG'
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0213-house-robber-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -305,6 +306,7 @@ All GFG solutions are marked with 'GFG'
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1642-water-bottles](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -338,6 +340,7 @@ All GFG solutions are marked with 'GFG'
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0064-minimum-path-sum) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## String
