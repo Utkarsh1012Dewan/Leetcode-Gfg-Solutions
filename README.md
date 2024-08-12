@@ -293,6 +293,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -362,10 +363,12 @@ All GFG solutions are marked with 'GFG'
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
@@ -374,6 +377,7 @@ All GFG solutions are marked with 'GFG'
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -395,4 +399,12 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0070-climbing-stairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
