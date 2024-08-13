@@ -210,6 +210,7 @@ All GFG solutions are marked with 'GFG'
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0040-combination-sum-ii) |
 | [0059-spiral-matrix-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0213-house-robber-ii) |
@@ -410,4 +411,8 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
