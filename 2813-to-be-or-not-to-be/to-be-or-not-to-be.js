@@ -2,29 +2,23 @@
  * @param {string} val
  * @return {Object}
  */
+var expect = function(val) {
 
-const expect = (val) => {
-    const throwError = (errorStr) => {throw new Error(errorStr)};
+    var obj = {
+        toBe: (val1) => {
+            if (val1 === val) return true;
+            else throw new Error("Not Equal")
+        },
+        notToBe: (val2) => {
+            if (val2 !== val) return true;
+            else throw new Error("Equal")
+        }
+    }
     
-    return {
-        toBe:    (val2) => val2 === val || throwError('Not Equal'),
-        notToBe: (val2) => val2 !== val || throwError('Equal'),
-    };
+    return obj
+    // throw new Error('Hello')
+    
 };
-
-// var expect = function(val) {
-    
-//     return { 
-//     function toBe(val1) => {
-//         if (val !== val1) throw new Error('Not Equal');
-//         else return true
-//     }
-//     function notToBe(val2) => {
-//         if (val === val2) throw new Error("Equal");
-//         else return true
-//     }}
-    
-// };
 
 /**
  * expect(5).toBe(5); // true
