@@ -3,16 +3,13 @@
  * @return { increment: Function, decrement: Function, reset: Function }
  */
 var createCounter = function(init) {
-
-    let track = init
-
+    var copy = init
     return {
         increment: () => ++init,
         decrement: () => --init,
-        reset: () => init = track 
+        reset: () => init = copy
     }
-
-
+    
 };
 
 /**
