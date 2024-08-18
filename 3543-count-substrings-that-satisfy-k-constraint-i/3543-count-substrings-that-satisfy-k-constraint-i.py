@@ -3,21 +3,20 @@ class Solution:
 
         total = 0
         zeroes = ones = 0
-        left = 0
+        l = 0
 
-        for right in range(len(s)):
-            if s[right] == '1':
+        for r in range(len(s)):
+            if s[r] == '1':
                 ones +=1
             else:
                 zeroes += 1
-            
             while ones > k and zeroes > k:
-                if s[left] == '0':
+                if s[l] == '0':
                     zeroes -=1
                 else:
                     ones -=1
-                left += 1
-            total += right - left + 1
+                l += 1
+            total += r - l + 1
         
         return total
 
