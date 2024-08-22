@@ -429,4 +429,8 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0040-combination-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
