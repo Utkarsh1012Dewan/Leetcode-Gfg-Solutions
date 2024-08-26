@@ -295,6 +295,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
@@ -381,6 +382,7 @@ All GFG solutions are marked with 'GFG'
 ## Tree
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -433,4 +435,8 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0476-number-complement) |
+## Depth-First Search
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
