@@ -233,6 +233,7 @@ All GFG solutions are marked with 'GFG'
 | [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -324,6 +325,7 @@ All GFG solutions are marked with 'GFG'
 | [1642-water-bottles](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2846-robot-collisions) |
@@ -363,6 +365,7 @@ All GFG solutions are marked with 'GFG'
 | [0059-spiral-matrix-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0064-minimum-path-sum) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
 |  |
 | ------- |
