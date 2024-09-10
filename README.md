@@ -318,6 +318,7 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -336,6 +337,7 @@ All GFG solutions are marked with 'GFG'
 | [1642-water-bottles](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2645-pass-the-pillow) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -442,4 +444,8 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
