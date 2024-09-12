@@ -231,6 +231,7 @@ All GFG solutions are marked with 'GFG'
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -246,6 +247,7 @@ All GFG solutions are marked with 'GFG'
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -281,6 +283,7 @@ All GFG solutions are marked with 'GFG'
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 ## Greedy
@@ -380,6 +383,7 @@ All GFG solutions are marked with 'GFG'
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1720-crawler-log-folder](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/2502-sort-the-people) |
@@ -440,6 +444,7 @@ All GFG solutions are marked with 'GFG'
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Utkarsh1012Dewan/Leetcode-Gfg-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Depth-First Search
 |  |
 | ------- |
